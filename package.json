@@ -18,6 +18,7 @@
   "homepage": "https://github.com/urbantumbleweed/iceddev-crm#readme",
   "dependencies": {
     "hapi": "^10.3.0",
+    "lodash": "^3.10.1",
     "orientjs": "^2.1.0",
     "react": "^0.13.3",
     "react-router": "^0.13.3",
