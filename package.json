@@ -15,5 +15,18 @@
   "bugs": {
     "url": "https://github.com/urbantumbleweed/iceddev-crm/issues"
   },
-  "homepage": "https://github.com/urbantumbleweed/iceddev-crm#readme"
+  "homepage": "https://github.com/urbantumbleweed/iceddev-crm#readme",
+  "dependencies": {
+    "hapi": "^10.3.0",
+    "orientjs": "^2.1.0",
+    "react": "^0.13.3",
+    "react-router": "^0.13.3",
+    "redux": "^3.0.2"
+  },
+  "devDependencies": {
+    "@phated/eslint-config-iceddev": "^0.2.1",
+    "eslint": "^1.6.0",
+    "eslint-plugin-mocha": "^0.5.1",
+    "eslint-plugin-react": "^3.5.1"
+  }
 }
